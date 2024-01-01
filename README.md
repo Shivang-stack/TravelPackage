@@ -1,6 +1,9 @@
-# Project Name
+# Travel Package
+## HLD
+![HLD](https://github.com/Shivang-stack/TravelPackage/assets/56068903/631bb855-f741-41b9-b364-4e048fd43dcc)
+## UML
+![UML](https://github.com/Shivang-stack/TravelPackage/assets/56068903/03d81188-24eb-452b-abd5-1613336119f7)
 
-Description of your project goes here.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
