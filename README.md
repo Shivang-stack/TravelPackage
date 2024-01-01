@@ -7,7 +7,6 @@ Description of your project goes here.
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Run the Program](#run-the-program)
-- [Usage](#usage)
 
 ## Prerequisites
 - NetBeans IDE installed on your machine.
